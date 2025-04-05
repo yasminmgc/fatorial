@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Fatorial</title>
+    <title>Projeto Fatorial</title>
 </head>
 <body>
     <script>
